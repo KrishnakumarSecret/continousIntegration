@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <html>
 <head>
-<title>Registration Sample</title>
+<title>Test Registration Sample</title>
 <script type="text/javascript" language="Javascript"
 	src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
