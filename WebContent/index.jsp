@@ -12,7 +12,7 @@
 </head>
 <body class="main_content">
 <div class="main_div">
-<header class="">Sample welcome screen</header>
+<header class="">Fielding or Bowling</header>
 <form name="reg_form" class="form" action="regform" method="post">
 <div class="main_block">
 <label for="first_name">First Name</label>
