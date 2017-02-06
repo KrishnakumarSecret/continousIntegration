@@ -12,7 +12,7 @@
 </head>
 <body class="main_content">
 <div class="main_div">
-<header class="">Fielding or Bowling</header>
+<header class="">Bating or Bowling13541564</header>
 <form name="reg_form" class="form" action="regform" method="post">
 <div class="main_block">
 <label for="first_name">First Name</label>
