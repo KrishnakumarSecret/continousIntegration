@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <html>
 <head>
-<title>Test Registration Sample</title>
+<title>Sample welcome screen</title>
 <script type="text/javascript" language="Javascript"
 	src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
@@ -12,7 +12,7 @@
 </head>
 <body class="main_content">
 <div class="main_div">
-<header class="">Registration Form</header>
+<header class="">Sample welcome screen</header>
 <form name="reg_form" class="form" action="regform" method="post">
 <div class="main_block">
 <label for="first_name">First Name</label>
