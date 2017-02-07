@@ -1,6 +1,7 @@
 package com.newRegistration.projectTest;
 
 import org.junit.Test;
+import org.junit.Ignore;
 import static org.junit.Assert.assertEquals;
 
 public class TestClass {
@@ -14,6 +15,7 @@ public class TestClass {
       assertEquals(message,messageUtil.printMessage());
    }
    
+   @Ignore
    @Test
    public void testPrintMessageFailure() {
       message = "failure";
