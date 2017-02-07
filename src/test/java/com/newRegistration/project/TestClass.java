@@ -15,7 +15,7 @@ public class TestClass {
       assertEquals(message,messageUtil.printMessage());
    }
    
-  
+  @Ignore
    @Test
    public void testPrintMessageFailure() {
       message = "failure";
