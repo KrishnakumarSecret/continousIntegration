@@ -12,12 +12,12 @@
 </head>
 <body class="main_content">
 <div class="main_div">
-<header class="">Welcome screen</header>
+<header class="">Registration Subra test screen</header>
 <form name="reg_form" class="form" action="regform" method="post">
 <div class="main_block">
-<label for="first_name">First Name</label>
+<label for="first_name">enter First Name</label>
 <input type="text" name="firstName" class="f_name" id="first_name"/>
-<label for="last_name">Last Name</label>
+<label for="last_name">enter Last Name</label>
 <input type="text" name="secondName" class="f_name" id="last_name"/>
 <label for="email">Email</label>
 <input type="email" name="email" class="e_mail" id="email"/>
