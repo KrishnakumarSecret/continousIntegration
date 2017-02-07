@@ -1,4 +1,4 @@
-package com.newRegistration.projectTest;
+package com.newRegistration.project;
 
 /*
 * This class prints the given message on console.
