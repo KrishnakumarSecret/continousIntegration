@@ -1,4 +1,4 @@
-package com.newRegistration.projectTest;
+package com.newRegistration.project;
 
 import org.junit.Test;
 import org.junit.Ignore;
